@@ -78,6 +78,9 @@ A comprehensive web application that displays interactive 3D models with texture
 
       ![Screenshot](https://raw.githubusercontent.com/megha-unnikrishnan/protocorp/master/images/screenshot1.JPG)
 
+      
+      
+
     - Next.js API Response (/api/nextjs-model-info)
 
        ![Screenshot](https://raw.githubusercontent.com/megha-unnikrishnan/protocorp/master/images/screenshot2.jpeg)
