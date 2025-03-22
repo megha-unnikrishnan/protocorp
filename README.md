@@ -72,38 +72,14 @@ A comprehensive web application that displays interactive 3D models with texture
 
     - npm run 
     
-## 📸 API Screenshots
+## 📌 Usage
 
-    - Python Backend API Response (/python-model-info)
-
-      ![Screenshot](https://raw.githubusercontent.com/megha-unnikrishnan/protocorp/master/images/screenshot1.JPG)
-
+      - Access the frontend at: http://localhost:3000
       
-      
+      - API backend runs at: http://127.0.0.1:8000
 
-    - Next.js API Response (/api/nextjs-model-info)
+## 📜 License
 
-       ![Screenshot](https://raw.githubusercontent.com/megha-unnikrishnan/protocorp/master/images/screenshot2.jpeg)
-
-## 🎬 Demo Video
-
-  A video demonstration of the working application is available at:
-  
-      [Watch Video](https://raw.githubusercontent.com/megha-unnikrishnan/protocorp/master/images/VID_20250321_183159.mp4)
-
-      Watch Demo Video
-      
-      The video demonstrates:
-
-      - Application startup
-      
-      - Model loading and texture application
-      
-      - Interactive controls (rotation, zoom)
-      
-      - API data retrieval functionality
-      
-
-
+This project is licensed under the MIT License.
 
     
